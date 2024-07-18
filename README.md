@@ -2,10 +2,15 @@
 To Do list Web Application
 
 Name: Deep Dabar
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT4WD2886
+
 Domain: Web Development
+
 Duration: June to July 2024
+
 Mentor: Mr. Santosh Kumar
 
 **Objective**
